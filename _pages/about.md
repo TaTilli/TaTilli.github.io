@@ -65,7 +65,7 @@ You will pour the natural water you intend to use into your scrying bowl.
 
 ## Step Six: Bless the water
 
-Everybody helds their hands over the water and says 3 times: "I exorcise thee, oh creature of water, of all negativity both seen and unseen, and bless thee in the name of the divine goddess." The hot blessing witch stirs the water with their hand 3 times clockwise. Then everyobody says: "I cleanse and consecrate this water in the name of the divine goddess, may this liquid enhance and purify all that it touches, so mote it be!"
+Everybody holds their hands over the water and says 3 times: "I exorcise thee, oh creature of water, of all negativity both seen and unseen, and bless thee in the name of the divine goddess." The hot blessing witch stirs the water with their hand 3 times clockwise. Then everyobody says: "I cleanse and consecrate this water in the name of the divine goddess, may this liquid enhance and purify all that it touches, so mote it be!"
 
 
 ## Step Seven: Form Your Question of Inquiry
