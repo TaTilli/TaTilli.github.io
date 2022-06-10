@@ -2,13 +2,13 @@
 layout: about
 title: Ceromancy
 permalink: /
-subtitle: Candle Wax Reading
+subtitle: This is not a porn site.
 
 profile:
   align: right
   image: prof_pic.JPEG
   address: >
-    <p>This is not a porn site</p>
+    <p>The original hot witches.</p>
 
 
 news: false  # includes a list of news items
@@ -16,9 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-# Choose Natural Materials
+
+# What you Need
 
 You want to gather natural materials so you can tap into the Earth's energies. Appoint a hot witch in your group each responsible for:
 - Cleansing the space
@@ -37,6 +37,8 @@ Supplies you need:
 
 ## Step One: Choose Your Candle Color
 You want to select a candle color that best matches your intentions. For example, if you are scrying for a financial or money issue, then select either a green or gold candle.
+
+ ![](assets/img/candle-color.png)
 
 ## Step Two: Cleanse Space
 You will use either sage or another favorite incense to clear the space you intend to use while scrying. If you have a ritual you practice for space clearing, you can use it. You can either sit at a table, altar or on the floor, according to what is most comfortable for you.
