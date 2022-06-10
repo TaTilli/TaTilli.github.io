@@ -38,9 +38,8 @@ Supplies you need:
 ## Step One: Choose Your Candle Color
 You want to select a candle color that best matches your intentions. For example, if you are scrying for a financial or money issue, then select either a green or gold candle.
 
- <img src="assets/img/candle-color.png" width="50">
+ <img src="assets/img/candle-color.png" width="300">
  
- ![](assets/img/candle-color.png)
 
 ## Step Two: Cleanse Space
 You will use either sage or another favorite incense to clear the space you intend to use while scrying. If you have a ritual you practice for space clearing, you can use it. You can either sit at a table, altar or on the floor, according to what is most comfortable for you.
