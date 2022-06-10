@@ -94,5 +94,7 @@ Animal shapes can be literal or represent an animal spirit guide.
 
 While number, shapes, and letters are cool, mostly likely you'll end up with various abstract forms floating on the water. This is why your intuition and psychic abilities are so important when interpreting the message of your candle wax scrying. You should always trust your psychic impressions over all things. The meanings of melted candle wax patterns can help you tap into your psychic and intuitive self.
 
+To help you interpreting, this [fellow witch has some suggestions](https://paranormalhauntings.blog/2019/10/10/wax-scrying-how-to-do-wax-divination/).
+
 ## Step 12: Close Protection Circle
 You want to close your circle when you are finished with your scrying. You will then extinguish the white candle.
