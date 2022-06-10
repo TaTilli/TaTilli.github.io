@@ -38,7 +38,7 @@ Supplies you need:
 ## Step One: Choose Your Candle Color
 You want to select a candle color that best matches your intentions. For example, if you are scrying for a financial or money issue, then select either a green or gold candle.
 
- <img src="assets/img/candle-color.png" width="100">
+ <img src="assets/img/candle-color.png" width="50">
  
  ![](assets/img/candle-color.png)
 
